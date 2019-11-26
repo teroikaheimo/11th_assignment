@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">11th_assingment</string>
+    <string name="getContact">Get Contact</string>
+    <string name="clear_contacts">Clear Contacts</string>
+</resources>
